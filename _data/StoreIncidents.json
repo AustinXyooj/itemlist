@@ -342,7 +342,7 @@
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 17000,
 		"karmatype": "Good"
 	},
 	{
@@ -352,7 +352,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -372,12 +372,12 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1500,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
