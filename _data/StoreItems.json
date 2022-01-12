@@ -2,7 +2,7 @@
 	"items": [
 		{
 			"abr": "steel",
-			"price": 3,
+			"price": 5,
 			"category": "Raw resources",
 			"defname": "Steel"
 		},
